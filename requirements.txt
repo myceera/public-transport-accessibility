@@ -1,0 +1,6 @@
+pandas
+geopandas
+matplotlib.pyplot
+shapely
+os
+pypalettes

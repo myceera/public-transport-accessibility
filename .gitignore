@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Map outputs and temporary results
+*.svg
+*.pdf
+*.jpg
+*.jpeg
+*.tiff
+output/
+coverage_maps/
+
+# Logs and misc
+*.log
+*.tmp
+
+# VS Code settings (optional)
+.vscode/
