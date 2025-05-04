@@ -1,5 +1,5 @@
-pandas
-geopandas
-matplotlib.pyplot
-shapely
-pypalettes
+geopandas==1.0.1
+pandas==2.2.3
+shapely==2.1.0
+matplotlib==3.10.1
+pypalettes==0.1.5
